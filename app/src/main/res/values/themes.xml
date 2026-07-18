@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.KharchaKhata" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:statusBarColor">#0F5C4C</item>
+        <item name="colorPrimary">#0F5C4C</item>
+    </style>
+</resources>
